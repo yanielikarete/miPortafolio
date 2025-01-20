@@ -1,11 +1,9 @@
-import React, { useEffect, useState } from 'react';
-import { Github, Linkedin, Download, Mail, ChevronDown, ExternalLink } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { Github, Linkedin, Download, Mail, ChevronDown } from 'lucide-react';
 import ContactForm from './components/ContactForm';
 import ProjectCard from './components/ProjectCard';
 import SkillCard from './components/SkillCard';
 import TestimonialCard from './components/TestimonialCard';
-import { JSX } from 'react/jsx-runtime';
-import { ReactNode } from 'react';
 
 interface Content {
   heroSection: {
