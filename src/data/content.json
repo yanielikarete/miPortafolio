@@ -1,0 +1,81 @@
+{
+  "heroSection": {
+    "title": "Hola, soy Yaniel",
+    "subtitle": "Desarrollador y Creador de Soluciones con IA",
+    "description": "Especializado en desarrollo de aplicaciones y automatización con inteligencia artificial, creando soluciones innovadoras para problemas complejos."
+  },
+  "aboutSection": {
+    "title": "Sobre Mí",
+    "content": [
+      "Con más de 5 años de experiencia en el desarrollo de software, me especializo en crear soluciones tecnológicas innovadoras utilizando las últimas tecnologías y mejores prácticas de la industria.",
+      "Mi expertise abarca desde el desarrollo full-stack con React, Node.js y Python, hasta la implementación de soluciones de IA utilizando TensorFlow y la API de OpenAI.",
+      "Me apasiona la automatización de procesos y la creación de aplicaciones que no solo funcionan perfectamente, sino que también proporcionan una experiencia excepcional al usuario."
+    ]
+  },
+  "portfolioSection": {
+    "title": "Proyectos Destacados",
+    "projects": [
+      {
+        "title": "AI Task Automator",
+        "description": "Automatización de procesos empresariales utilizando IA y procesamiento de lenguaje natural.",
+        "technologies": ["Python", "TensorFlow", "OpenAI API"]
+      },
+      {
+        "title": "Smart Analytics Dashboard",
+        "description": "Dashboard interactivo para visualización de datos en tiempo real con ML predictions.",
+        "technologies": ["React", "D3.js", "Node.js"]
+      },
+      {
+        "title": "DevOps Pipeline Builder",
+        "description": "Herramienta de automatización para crear y gestionar pipelines de CI/CD.",
+        "technologies": ["Docker", "Jenkins", "AWS"]
+      }
+    ]
+  },
+  "skillsSection": {
+    "title": "Habilidades",
+    "categories": [
+      {
+        "title": "Desarrollo Frontend",
+        "skills": ["React", "TypeScript", "Tailwind CSS", "Next.js"]
+      },
+      {
+        "title": "Desarrollo Backend",
+        "skills": ["Node.js", "C#", "Django", "ASP.NET Web API", "PostgreSQL", "SQL Server"]
+      },
+      {
+        "title": "Inteligencia Artificial",
+        "skills": ["Make", "Mistral AI", "OpenAI API", "N8N"]
+      },
+      {
+        "title": "Herramientas",
+        "skills": ["Git", "VS Code", "Jira", "Github", "Postman"]
+      },
+      {
+        "title": "Soft Skills",
+        "skills": ["Liderazgo", "Comunicación", "Trabajo en Equipo", "Resolución de Problemas"]
+      }
+    ]
+  },
+  "testimonialsSection": {
+    "title": "Testimonios",
+    "testimonials": [
+      {
+        "text": "Yaniel demostró ser un desarrollador excepcional, siempre entregando soluciones innovadoras y de alta calidad.",
+        "author": "María González",
+        "position": "CTO, Tech Solutions Inc."
+      },
+      {
+        "text": "Su expertise en IA y automatización nos ayudó a optimizar significativamente nuestros procesos internos.",
+        "author": "Carlos Rodríguez",
+        "position": "Project Manager, Innovation Labs"
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Contacto"
+  },
+  "footer": {
+    "copyright": "© 2024 Yaniel. Todos los derechos reservados."
+  }
+}
